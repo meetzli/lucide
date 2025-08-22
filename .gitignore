@@ -164,3 +164,6 @@ book/book/
 
 # Tailwind CSS ouput
 tailwind.output.css
+
+# JetBrains / RustRover project config
+.idea/
